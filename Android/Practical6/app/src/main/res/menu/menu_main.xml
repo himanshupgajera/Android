@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/bca"
+        android:title="BCA"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/mca"
+        android:title="MCA"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/bba"
+        android:title="BBA"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/mba"
+        android:title="MBA"
+        app:showAsAction="never" />
+</menu>

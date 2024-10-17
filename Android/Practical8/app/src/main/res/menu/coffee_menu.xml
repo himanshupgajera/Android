@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/americano"
+        android:title="Americano" />
+    <item
+        android:id="@+id/latte"
+        android:title="Latte" />
+    <item
+        android:id="@+id/espresso"
+        android:title="Espresso" />
+    <item
+        android:id="@+id/cappuccino"
+        android:title="Cappuccino" />
+    <item
+        android:id="@+id/mocha"
+        android:title="Mocha" />
+    <item
+        android:id="@+id/skinny_latte"
+        android:title="Skinny Latte" />
+    <item
+        android:id="@+id/espresso_corretto"
+        android:title="Espresso Corretto" />
+</menu>

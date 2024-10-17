@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UI Components Demo</string>
+    <string-array name="spinner_items">
+        <item>Select Coffee</item>
+        <item>Americano</item>
+        <item>Latte</item>
+        <item>Espresso</item>
+        <item>Cappuccino</item>
+        <item>Mocha</item>
+    </string-array>
+</resources>

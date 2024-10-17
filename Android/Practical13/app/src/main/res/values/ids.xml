@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editTextResult" type="id" />
+    <item name="buttonEqual" type="id" />
+    <item name="buttonPlus" type="id" />
+    <item name="buttonMinus" type="id" />
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Long press here to manipulate text"
+        android:textSize="18sp"
+        android:background="@android:color/holo_blue_light"
+        android:padding="16dp"
+        android:textColor="@android:color/black" />
+</RelativeLayout>
