@@ -1,4 +1,4 @@
-# Pratibha Institute of business management (SPPU), Pune.
+# Pratibha Institute of business management (SPPU)-Pune.
 
 ### Definations
 
