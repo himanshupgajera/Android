@@ -5,7 +5,6 @@
 ----
 
 1. Create an android app to demonstrate Activity Life Cycle.
-<br/>
 2. Create an android app to demonstrate Fragment Lifecycle.
 <br/>
 3. Using Fragments, design login screen and registration form (take any example).
